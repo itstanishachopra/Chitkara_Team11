@@ -6,7 +6,7 @@ This project is a basic real-time collaboration platform where multiple users ca
 -> Document Management – Create, edit, and save shared documents
 -> Real-Time Editing – Instant updates for all connected users via WebSockets
 -> Database Integration – Persistent storage for users and documents
--> Version Control (Bonus) – Revert to previous document versions
+-> Version Control  – Revert to previous document versions
 
 **Tech Stack
 Frontend**
